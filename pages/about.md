@@ -9,18 +9,19 @@ weight: 2
 
 <img src="{{ site.url }}/{{ site.author.image }}" width="200px" class="wow animated jackInTheBox" data-wow-delay=".2s">
 
-<center>{% include elements/button.html link="https://drive.google.com/uc?export=download&id=1Tai8AvUdoiIKJTmvKQ-lAR_7Z-1zJlb6" text="Download Resume" size="sm" %}
+<center>{% include elements/button.html link="https://drive.google.com/uc?export=download&id=1C7ZsUPc8Rt9QttZ6W4T7iLskEkWgvl4X" text="Download Resume" size="sm" %}
 </center><br>
 
 Hi, :wave: <br><br>
-Thanks for stumbling upon my little space on the web. Currently, I am doing my Master's in Entrepreneurial Cybersecurity from Saarland University. I am passionate about Web Security, Cryptography and startups. 
+Hi this is harsh, doing my masters in computer applications from Kiit university, Bhubneswar.
 
-I started coding at the age of 13. I build and break things as fast as I can. I write my spells in Python. Apart from that, I also use C, C++, JavaScript and Shell. 
+Started my coding journey at the age of 16 and ever since I believe anything that can be dreamt can be built with code. 
+I can code in Python, C and Swift, but JavaScript is my go to language.
 
-My most of the time goes into <a target="_blank" href="https://github.com/aman-roy">writing code</a>(or breaking :wink:), <a target="_blank" href="https://www.goodreads.com/user/show/68145586-aman-roy">reading books</a>, and speedcubing.
+You can find my projects <a target="_blank" href="https://github.com/harshvarddhantiwari">Github</a>or:wink: my most of the time goes in scrolling , <a target="_blank" href="twitter.com/imharshhub">twitter</a>.
 
 
-The best way to connect with me is by shooting me an <a href="mailto:admin@amanroy.me">email</a>. My public key is <a target="_blank" href="https://keybase.io/amanroy">3E0F 4707 D0DD 596E</a>. Do it without thinking twice. I love socializing.
+The best way to connect with me is<a href="mailto:harshk915@gmail.com">email</a>.
 
 
 <!-- 
