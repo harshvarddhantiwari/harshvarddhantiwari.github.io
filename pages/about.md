@@ -13,15 +13,18 @@ weight: 2
 </center><br>
 
 Hi, :wave: <br><br>
-Hi this is harsh, doing my masters in computer applications from Kiit university, Bhubneswar.
+Hi, this is harsh, doing my Master's in Computer Applications from KIIT University, Bhubaneswar.
 
-Started my coding journey at the age of 16 and ever since I believe anything that can be dreamt can be built with code. 
-I can code in Python, C and Swift, but JavaScript is my go to language.
+I started my coding journey at the age of 16 and ever since I believe anything that can be dreamt of can be built with code.
+I can code in Python, C, and Swift, but JavaScript is my go-to language.
 
-You can find my projects <a target="_blank" href="https://github.com/harshvarddhantiwari">Github</a>or:wink: my most of the time goes in scrolling , <a target="_blank" href="twitter.com/imharshhub">twitter</a>.
+You can find my projects on <a target="_blank" href="https://github.com/harshvarddhantiwari">Github</a> or:wink: most of my time goes in scrolling, <a target="_blank" href="twitter.com/imharshhub">Twitter</a>.
 
+The best way to connect with me is <a href="mailto:harshk915@gmail.com">email</a>.
 
-The best way to connect with me is<a href="mailto:harshk915@gmail.com">email</a>.
+``` javascript
+console.log("Thanks for landing on my page!");
+```
 
 
 <!-- 

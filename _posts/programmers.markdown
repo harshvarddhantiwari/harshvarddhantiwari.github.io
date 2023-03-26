@@ -10,6 +10,8 @@ permalink: Coders!
 
 ![Programmers]({{site.baseurl}}/assets/images/note/laptops.jpg)
 
+## Hey Programmers!
+
 I’m writing this simple note to those who is getting started in the field of programming or coding, because it was inevitable for me to write this note, as we know there especially at this information interchangeable age there are many students who take their admissions in computer science sector, and at that institution, it is must to teach them some kind of algorithms, data structures with some coding languages. Most of the time it’d be their first time interaction with specific programming languages, but some kids have prior experience to see how codes look like, but for sake of their eyes, they never take the risk to get their hands dirty in coding. Well, that’s the most common dilemma of computer science students. 
 So where was, I; I was about to say what they do afterward and they do the most common thing after taking the degree of engineers, they took some certain courses either online or offline, today bizarre amount of institutes run online, they teach their kids online by some practicing method or repetition method, their kids repeat what their teachers did in that lecture. My actual concern is, the doubling amount of programmers. Who just got started. Who just got stuck at single place, and their hesitation stops them to solve as much as problem it required to be a good programmer.
 
