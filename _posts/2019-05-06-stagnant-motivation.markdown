@@ -9,7 +9,7 @@ permalink: Motivation
 ---
 
 
-## A Stagnant Motivation Everywhere </br>
+## A Stagnant Motivation Everywhere <br>
 
 We’re all using any sort of social media, anyway everyday. And at every single on we would have liked or followed any kinda motivational or so called success saying page or group where we get bizarre amount of motivational quotes daily, or even whenever we fetch page. 
 
