@@ -73,7 +73,7 @@ twitch:
 
 twitter:
   url   : https://www.twitter.com/
-  icon  : fab fa-twitter
+  icon  : fab fa-x-twitter
   color : 1da1f2
 
 vimeo:
