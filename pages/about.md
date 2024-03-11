@@ -9,7 +9,7 @@ weight: 2
 
 <img src="{{ site.url }}/{{ site.author.image }}" width="200px" class="wow animated jackInTheBox" data-wow-delay=".2s">
 
-<center>{% include elements/button.html link="https://drive.google.com/file/d/1tWb_PPkMUTuWPDt0cERaOsnFiyypb79k/view?usp=sharing" text="Download Resume" size="sm" %}
+<center>{% include elements/button.html link="https://drive.google.com/uc?export=download&id=1tWb_PPkMUTuWPDt0cERaOsnFiyypb79k" text="Download Resume" size="sm" %}
 </center><br>
 
 Hi, :wave: <br><br>
