@@ -9,7 +9,11 @@ weight: 2
 
 <img src="{{ site.url }}/{{ site.author.image }}" width="200px" class="wow animated jackInTheBox" data-wow-delay=".2s">
 
+<<<<<<< HEAD
 <center>{% include elements/button.html link="https://drive.google.com/uc?export=download&id=1C7ZsUPc8Rt9QttZ6W4T7iLskEkWgvl4X" text="Download Resume" size="sm" %}
+=======
+<center>{% include elements/button.html link="https://drive.google.com/uc?export=download&id=1ZblC1gAA7UmizdIF3mpV8jjxNYRFCjDw" text="Download Resume" size="sm" %}
+>>>>>>> f4b05d8 (Update resume.md)
 </center><br>
 
 Hi, :wave: <br><br>
