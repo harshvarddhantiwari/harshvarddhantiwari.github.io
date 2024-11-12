@@ -18,7 +18,7 @@ Hi, this is harsh, working as an Associate at <a target="_blank" href="https://w
 I started my coding journey at the age of 16 and ever since I believe anything that can be dreamt of can be built with code.
 I can code in Python, C, and Swift, but JavaScript is my go-to language.
 
-You can find my projects on <a target="_blank" href="https://github.com/harshvarddhantiwari">Github</a> :octocat: or :wink: most of my time goes in scrolling <a target="_blank" href="https://twitter.com/imharshhub">𝕏.com</a>.
+You can find my projects on <a target="_blank" href="https://github.com/harshvarddhantiwari">Github</a> or :wink: most of my time goes in scrolling <a target="_blank" href="https://x.com/imharshhub">𝕏.com</a>.
 
 The best way to connect with me is <a href="mailto:harshk915@gmail.com">email</a>.
 
